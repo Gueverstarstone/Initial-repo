@@ -1,7 +1,9 @@
-# Illustration on GIT commands
+# Illustrations on GIT commands
 Repo used as a walk through on GIT basics
 
 1. Initialize an empty repo
 2. Create branches
 3. Creating an empty repo and pushing the changes on it
 4. Create a license for the repo
+
+# This changes were made in sdfpt12
